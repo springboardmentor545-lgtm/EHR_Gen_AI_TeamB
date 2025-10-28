@@ -1,0 +1,5 @@
+condition_keyword,icd10_code,icd10_description
+glioma,C71.9,"Malignant neoplasm of brain, unspecified"
+meningioma,D32.9,"Benign neoplasm of meninges, unspecified"
+pituitary,D35.2,Benign neoplasm of pituitary gland
+notumor,Z00.0,General medical examination without abnormal findings
