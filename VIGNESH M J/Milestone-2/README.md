@@ -97,7 +97,7 @@ All tasks were implemented locally using **Python (Jupyter Notebook and VS Code)
 
 * Compatibility issues while installing the PyTorch-based ESRGAN model — resolved by switching to the lightweight **Vulkan executable version**.
 * Initial mismatch in output filenames and image dimensions — corrected through automatic resizing before metric computation.
-* Performance limitations on CPU resolved by leveraging **Intel Iris Xe GPU** support for faster inference.
+* ESRGAN online model was not available.
 
 ---
 
@@ -113,3 +113,4 @@ The process achieved:
 The enhanced dataset will now support **Milestone 3**, which focuses on AI-driven diagnosis and intelligent linkage between imaging and EHR data.
 
 ---
+
