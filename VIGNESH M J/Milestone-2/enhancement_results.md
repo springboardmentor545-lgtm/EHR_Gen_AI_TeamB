@@ -99,12 +99,13 @@ Evaluated using **PSNR (Peak Signal-to-Noise Ratio)** and **SSIM (Structural Sim
 ---
 
 ## 8. Comparison
-*The the comparison result can be view in the 02_data_prep.ipynb file
+* The the comparison result can be view in the "02_data_prep.ipynb" file
 
 
-## 10. Conclusion
+## 9. Conclusion
 
 The **Real-ESRGAN enhancement pipeline** successfully improved MRI brain image clarity and detail.
 The enhanced dataset demonstrates high-quality visual and structural consistency, supporting the next milestone’s objectives for **AI-assisted diagnosis and EHR-image analysis.**
 
 ---
+
