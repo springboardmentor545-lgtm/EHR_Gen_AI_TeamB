@@ -1,0 +1,4 @@
+condition_keyword,icd10_code,icd10_description
+malignant,C71.9,Malignant brain tumor
+benign,D33.9,Benign brain tumor
+no tumor,,No tumor
