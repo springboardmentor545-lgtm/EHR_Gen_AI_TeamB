@@ -1,0 +1,19 @@
+{
+  "patient_id": "P001",
+  "clinical_note": "A 62-year-old female presents with reported vision loss and headache. MRI findings suggest a meningioma located in the left frontal lobe, provisionally diagnosed as benign. Her symptoms warrant further investigation and management of the intracranial lesion.",
+  "icd10_code": "D32.0",
+  "icd10_description": "Benign neoplasm of cerebral meninges",
+  "recommended_steps": [
+    "Referral to Neurosurgery for definitive evaluation, management planning, and consideration of surgical options.",
+    "Ophthalmology referral for comprehensive vision assessment, fundoscopic examination, and evaluation for optic nerve compression.",
+    "Neurology consultation for thorough neurological assessment and management of headache.",
+    "Repeat MRI imaging in 3-6 months to monitor for tumor growth, if an observational approach is adopted."
+  ],
+  "reasoning": "The patient's symptoms (vision loss, headache) and MRI findings (left frontal lobe meningioma) necessitate comprehensive evaluation. Neurosurgical and ophthalmological assessments are crucial to determine the best management strategy for the suspected benign meningioma and address symptom impact.",
+  "parse_method": "json",
+  "_meta": {
+    "source_file": "Milestone_3\\data_input\\patient1.json",
+    "model_name": "models/gemini-2.5-flash",
+    "timestamp_utc": "2025-11-25T00:05:09.844365"
+  }
+}

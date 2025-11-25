@@ -1,0 +1,8 @@
+{
+  "patient_id": "P001",
+  "age": 62,
+  "gender": "female",
+  "symptoms": ["vision loss", "headache"],
+  "scan_findings": "MRI suggests meningioma in the left frontal lobe",
+  "provisional_diagnosis": "benign meningioma"
+}

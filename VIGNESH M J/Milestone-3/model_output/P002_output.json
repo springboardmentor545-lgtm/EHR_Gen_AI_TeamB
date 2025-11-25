@@ -1,0 +1,21 @@
+{
+  "patient_id": "P002",
+  "clinical_note": "A 45-year-old male presents with new onset chest pain and shortness of breath. Imaging studies reveal mild cardiomegaly with evidence of congestion. He is provisionally diagnosed with suspected early-stage heart failure.",
+  "icd10_code": "I50.9",
+  "icd10_description": "Heart failure, unspecified",
+  "recommended_steps": [
+    "Order an echocardiogram to assess cardiac function, chamber sizes, and ejection fraction.",
+    "Obtain BNP or NT-proBNP levels to aid in heart failure diagnosis and severity assessment.",
+    "Perform a comprehensive metabolic panel (CMP) and complete blood count (CBC) to evaluate renal function, electrolytes, and screen for anemia.",
+    "Obtain an Electrocardiogram (ECG) to check for arrhythmias, ischemia, or ventricular hypertrophy.",
+    "Refer the patient to a cardiologist for specialized evaluation and management planning.",
+    "Provide patient education on symptom monitoring, sodium restriction, and fluid management."
+  ],
+  "reasoning": "The patient's symptoms and scan findings are highly suggestive of early-stage heart failure. The recommended steps aim to confirm the diagnosis, determine the specific type and etiology of heart failure, and establish an appropriate management plan through specialist consultation.",
+  "parse_method": "json",
+  "_meta": {
+    "source_file": "Milestone_3\\data_input\\patient2.json",
+    "model_name": "models/gemini-2.5-flash",
+    "timestamp_utc": "2025-11-25T00:05:18.547753"
+  }
+}

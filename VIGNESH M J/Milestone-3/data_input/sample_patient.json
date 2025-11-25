@@ -1,0 +1,8 @@
+{
+  "patient_id": "P003",
+  "age": 30,
+  "gender": "female",
+  "symptoms": ["severe headache", "nausea"],
+  "scan_findings": "MRI indicates glioma in temporal region",
+  "provisional_diagnosis": "possible glioma"
+}

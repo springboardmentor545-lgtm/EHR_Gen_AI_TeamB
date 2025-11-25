@@ -1,0 +1,21 @@
+{
+  "patient_id": "P003",
+  "clinical_note": "A 30-year-old female presents with severe headache and nausea. MRI findings indicate a glioma located in the temporal region, leading to a provisional diagnosis of possible glioma.",
+  "icd10_code": "C71.2",
+  "icd10_description": "Malignant neoplasm of temporal lobe",
+  "recommended_steps": [
+    "Referral to Neurosurgery for further evaluation and potential biopsy/resection.",
+    "Referral to Neuro-oncology for multidisciplinary treatment planning.",
+    "Pathology review of biopsy specimen to confirm diagnosis and tumor grade.",
+    "Baseline neurological examination and cognitive assessment.",
+    "Consider corticosteroids to manage intracranial pressure and symptoms like headache and nausea.",
+    "Discuss prognosis and comprehensive treatment options with the patient and family."
+  ],
+  "reasoning": "The MRI finding of a glioma in the temporal region strongly suggests a malignant neoplasm, for which C71.2 is the most appropriate code. The recommended steps are crucial for definitive diagnosis, staging, multidisciplinary treatment planning, and symptomatic management of a suspected brain tumor.",
+  "parse_method": "json",
+  "_meta": {
+    "source_file": "Milestone_3\\data_input\\sample_patient.json",
+    "model_name": "models/gemini-2.5-flash",
+    "timestamp_utc": "2025-11-25T00:05:24.382107"
+  }
+}
