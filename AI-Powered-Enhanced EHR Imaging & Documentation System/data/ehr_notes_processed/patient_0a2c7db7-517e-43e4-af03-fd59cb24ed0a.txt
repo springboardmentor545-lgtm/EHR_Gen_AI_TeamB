@@ -1,0 +1,9 @@
+Patient ID: 0a2c7db7-517e-43e4-af03-fd59cb24ed0a
+Age: 55
+Gender: Male
+Tumor Size: 3.56 cm
+Tumor Type: Benign
+Biopsy Result: Positive
+Treatment: Radiation Therapy
+Response to Treatment: Complete Response
+Survival Status: Survived

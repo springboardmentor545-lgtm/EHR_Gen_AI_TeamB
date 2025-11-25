@@ -1,0 +1,9 @@
+Patient ID: 00a3eb35-b058-4b70-a3da-df331c20b9fa
+Age: 66
+Gender: Female
+Tumor Size: 4.43 cm
+Tumor Type: Benign
+Biopsy Result: Negative
+Treatment: Radiation Therapy
+Response to Treatment: Complete Response
+Survival Status: Deceased

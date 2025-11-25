@@ -1,0 +1,9 @@
+Patient ID: 0a1ec9ff-cb5c-4ff3-a4d7-3973d007a4f3
+Age: 31
+Gender: Female
+Tumor Size: 2.75 cm
+Tumor Type: Malignant
+Biopsy Result: Positive
+Treatment: Radiation Therapy
+Response to Treatment: No Response
+Survival Status: Survived

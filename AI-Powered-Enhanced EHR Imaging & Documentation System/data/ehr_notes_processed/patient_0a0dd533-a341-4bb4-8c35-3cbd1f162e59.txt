@@ -1,0 +1,9 @@
+Patient ID: 0a0dd533-a341-4bb4-8c35-3cbd1f162e59
+Age: 53
+Gender: Female
+Tumor Size: 4.65 cm
+Tumor Type: Malignant
+Biopsy Result: Positive
+Treatment: Surgery
+Response to Treatment: No Response
+Survival Status: Survived

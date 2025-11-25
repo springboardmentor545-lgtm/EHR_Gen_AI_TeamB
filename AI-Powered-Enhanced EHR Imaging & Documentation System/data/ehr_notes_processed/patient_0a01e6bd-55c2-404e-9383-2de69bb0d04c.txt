@@ -1,0 +1,9 @@
+Patient ID: 0a01e6bd-55c2-404e-9383-2de69bb0d04c
+Age: 54
+Gender: Male
+Tumor Size: 6.75 cm
+Tumor Type: Benign
+Biopsy Result: Positive
+Treatment: Chemotherapy
+Response to Treatment: Partial Response
+Survival Status: Deceased

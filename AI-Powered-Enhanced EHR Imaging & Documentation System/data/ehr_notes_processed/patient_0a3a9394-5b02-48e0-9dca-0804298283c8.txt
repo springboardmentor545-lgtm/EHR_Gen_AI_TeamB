@@ -1,0 +1,9 @@
+Patient ID: 0a3a9394-5b02-48e0-9dca-0804298283c8
+Age: 59
+Gender: Male
+Tumor Size: 7.53 cm
+Tumor Type: Malignant
+Biopsy Result: Negative
+Treatment: Radiation Therapy
+Response to Treatment: Partial Response
+Survival Status: Survived
