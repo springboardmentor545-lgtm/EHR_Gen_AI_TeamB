@@ -1,0 +1,22 @@
+DETAILED PSNR & SSIM (15 IMAGES)
+==================================================
+Image 01: PSNR = 33.61 dB, SSIM = 0.9338
+Image 02: PSNR = 35.88 dB, SSIM = 0.9464
+Image 03: PSNR = 31.92 dB, SSIM = 0.8738
+Image 04: PSNR = 33.41 dB, SSIM = 0.7585
+Image 05: PSNR = 24.91 dB, SSIM = 0.7309
+Image 06: PSNR = 24.37 dB, SSIM = 0.4108
+Image 07: PSNR = 29.91 dB, SSIM = 0.7867
+Image 08: PSNR = 30.47 dB, SSIM = 0.8707
+Image 09: PSNR = 29.21 dB, SSIM = 0.9207
+Image 10: PSNR = 33.73 dB, SSIM = 0.8679
+Image 11: PSNR = 31.55 dB, SSIM = 0.9253
+Image 12: PSNR = 30.34 dB, SSIM = 0.8925
+Image 13: PSNR = 29.75 dB, SSIM = 0.8471
+Image 14: PSNR = 24.50 dB, SSIM = 0.5140
+Image 15: PSNR = 30.86 dB, SSIM = 0.8834
+
+AVERAGE PSNR: 30.30 dB
+AVERAGE SSIM: 0.8108
+Method: Bicubic vs Real-ESRGAN
+Status: SUCCESS
