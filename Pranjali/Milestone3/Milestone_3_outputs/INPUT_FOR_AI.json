@@ -1,0 +1,137 @@
+[
+  {
+    "patient_id": "10650",
+    "patient_name": "Rahul Sharma",
+    "age": 48,
+    "gender": "Male",
+    "symptoms": "No complaints",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "2041",
+    "patient_name": "Aishwarya Patel",
+    "age": 53,
+    "gender": "Female",
+    "symptoms": "Routine check-up",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "8668",
+    "patient_name": "Rohan Singh",
+    "age": 40,
+    "gender": "Male",
+    "symptoms": "No complaints",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "1114",
+    "patient_name": "Priya Kumar",
+    "age": 48,
+    "gender": "Female",
+    "symptoms": "No complaints",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "13902",
+    "patient_name": "Riya Sharma",
+    "age": 42,
+    "gender": "Female",
+    "symptoms": "No complaints",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "11963",
+    "patient_name": "Arjun Kumar",
+    "age": 52,
+    "gender": "Male",
+    "symptoms": "Routine check-up",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "11072",
+    "patient_name": "Rohan Patel",
+    "age": 59,
+    "gender": "Male",
+    "symptoms": "Routine check-up",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "3002",
+    "patient_name": "Arjun Patel",
+    "age": 47,
+    "gender": "Male",
+    "symptoms": "Routine check-up",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "19771",
+    "patient_name": "Karan Patel",
+    "age": 51,
+    "gender": "Male",
+    "symptoms": "Routine check-up",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "8115",
+    "patient_name": "Shruti Gupta",
+    "age": 34,
+    "gender": "Female",
+    "symptoms": "No complaints",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "3525",
+    "patient_name": "Arjun Singh",
+    "age": 53,
+    "gender": "Male",
+    "symptoms": "Routine check-up",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "7879",
+    "patient_name": "Riya Reddy",
+    "age": 63,
+    "gender": "Female",
+    "symptoms": "Routine check-up",
+    "mri_findings": "No evidence of intracranial space-occupying lesion.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "16441",
+    "patient_name": "Aishwarya Singh",
+    "age": 63,
+    "gender": "Female",
+    "symptoms": "No complaints",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "16296",
+    "patient_name": "Divya Reddy",
+    "age": 28,
+    "gender": "Female",
+    "symptoms": "Routine check-up",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  },
+  {
+    "patient_id": "12566",
+    "patient_name": "Priya Kumar",
+    "age": 65,
+    "gender": "Female",
+    "symptoms": "No complaints",
+    "mri_findings": "MRI brain is normal. No focal lesion or abnormality detected.",
+    "provisional_diagnosis": "normal"
+  }
+]
