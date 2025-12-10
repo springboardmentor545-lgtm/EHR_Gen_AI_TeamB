@@ -75,3 +75,5 @@ Generated PSNR & SSIM for each enhanced image and computed averages.
 🔹 Step 6: Save Results
 
 All evaluation metrics saved as:enhancement_metrics.csv
+
+Contributor:Pranjali Tanaji Jadhav  
