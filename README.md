@@ -2,11 +2,6 @@
 
 # AI-Powered-Enhanced EHR Imaging & Documentation System
 
-> **Current Status:** Milestone 3 Completed (Development & Testing Phase)  
-> **Next Step:** Milestone 4 (Integration & Deployment)
-
----
-
 ## 📖 Project Overview
 
 This project aims to revolutionize **Electronic Health Records (EHR)** by integrating **Generative AI (GenAI)** capabilities powered by **Azure OpenAI**. The system addresses two critical challenges in modern healthcare: the need for high-clarity medical imaging and the burden of administrative documentation.
@@ -23,7 +18,7 @@ By automating clinical notes, streamlining ICD-10 coding, and enhancing medical 
 
 ## 🚀 Features & Modules
 
-The project is divided into four core modules. As of today, **Modules 1, 2, and 3 are fully implemented.**
+The project is divided into four core modules. 
 
 ### ✅ Module 1: Data Collection & Preprocessing
 * **Data Ingestion:** Aggregation of medical imaging datasets (X-ray, MRI, CT, DXA) and unstructured EHR text.
@@ -40,7 +35,7 @@ The project is divided into four core modules. As of today, **Modules 1, 2, and 
 * **Smart Coding:** Analyzes EHR input to automatically suggest accurate ICD-10 codes, reducing billing errors and manual lookup time.
 * **Workflow integration:** Designed to minimize the "pajama time" clinicians spend documenting after hours.
 
-### 🚧 Module 4: Integration & Deployment (In Progress)
+### ✅ Module 4: Integration & Deployment
 * **Hospital System Integration:** Connecting the AI models with live EHR interfaces.
 * **Real-time Inference:** Deploying models for real-time clinical usage.
 * **User Training:** Onboarding sessions for medical staff.
@@ -54,7 +49,7 @@ The project is divided into four core modules. As of today, **Modules 1, 2, and 
 | **Milestone 1** | **Data Collection & Preprocessing:** Imaging/EHR sources prepared and labeled. | ✅ **Completed** |
 | **Milestone 2** | **Imaging Enhancement:** GenAI models functional for diagnostics. | ✅ **Completed** |
 | **Milestone 3** | **Documentation Automation:** Clinical notes & ICD-10 coding tested. | ✅ **Completed** |
-| **Milestone 4** | **Deployment:** Full integration into hospital systems. | ⏳ **Next Step** |
+| **Milestone 4** | **Deployment:** Full integration into hospital systems. | ✅ **Completed** |
 
 ---
 
