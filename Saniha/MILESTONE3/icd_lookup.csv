@@ -1,0 +1,6 @@
+condition_keyword,icd10_code,icd10_description
+pneumonia,J18.9,Pneumonia, unspecified organism
+hypertension,I10,Essential (primary) hypertension
+diabetes,E11.9,Type 2 diabetes mellitus without complications
+asthma,J45.909,Unspecified asthma, uncomplicated
+fracture,S52.501A,Unspecified fracture of the lower end of right radius
